@@ -1,0 +1,12 @@
+[
+    {
+        "name": "ram",
+        "roll": "21",
+        "course": "BCA"
+    },
+    {
+        "name": "jay",
+        "roll": "25",
+        "course": "BCA"
+    }
+]
