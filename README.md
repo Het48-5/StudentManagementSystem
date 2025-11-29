@@ -24,5 +24,5 @@ When you run `main.py`, you will see a menu like this:
 - **5 Exit** → Close the program.
 
 ## Author
-Het Pithadia
+Het 
 
